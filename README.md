@@ -27,7 +27,7 @@ Use os seguintes comandos:
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:seu-usuario/seu-repositorio.git
+$ git clone git@github.com:devdiegolimagomes/page-codigo-certo.git
 
 # Go into the repository
 $ cd seu-repositorio
